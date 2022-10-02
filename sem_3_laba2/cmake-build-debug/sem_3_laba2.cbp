@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sem_3_laba2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\homebrew\;CMake Files\..\..\..\..\opt\homebrew\lib\;CMake Files\..\..\..\..\opt\homebrew\lib\cmake\;CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sem_3_laba2">
+				<Option output="/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/sem_3_laba2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 sem_3_laba2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sem_3_laba2/fast">
+				<Option output="/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/sem_3_laba2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 sem_3_laba2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/kirillgolubev/CLionProjects/sem_3_laba2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/ArraySequence.h">
+			<Option target="sem_3_laba2"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/BinaryTree.h">
+			<Option target="sem_3_laba2"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/Board.h">
+			<Option target="sem_3_laba2"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/DynamicArray.h">
+			<Option target="sem_3_laba2"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/GUI.h">
+			<Option target="sem_3_laba2"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/ISet.h">
+			<Option target="sem_3_laba2"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/MMA.h">
+			<Option target="sem_3_laba2"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/Sequence.h">
+			<Option target="sem_3_laba2"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/Set.h">
+			<Option target="sem_3_laba2"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/Tests.h">
+			<Option target="sem_3_laba2"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/Tree.h">
+			<Option target="sem_3_laba2"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/main.cpp">
+			<Option target="sem_3_laba2"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/../../../../opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/../../../../opt/homebrew/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/../../../../opt/homebrew/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/../../../../opt/homebrew/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/kirillgolubev/CLionProjects/sem_3_laba2/../../../../opt/homebrew/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

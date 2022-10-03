@@ -95,7 +95,7 @@ void printBoard(RenderWindow* window, std::vector<sf::Sprite>& sprites)
     Font font;
 
 
-    font.loadFromFile("/Users/kirillgolubev/CLionProjects/pomoika2/Marker Felt.ttf");
+    font.loadFromFile("Marker Felt.ttf");
 
 
     Text text("Tic Tac Toe",font);
@@ -149,7 +149,7 @@ void gui()
     board = new Board();
     RenderWindow window(VideoMode(1100, 1318), "Laba 2!");
     Texture texture;
-    texture.loadFromFile("/Users/kirillgolubev/Hlam/Images/Wallpaper-Kemra-SoftWhiteBricks-1.jpg");
+    texture.loadFromFile("Images/Wallpaper-Kemra-SoftWhiteBricks-1.jpg");
     Sprite sprite;
     sprite.setTexture(texture);
     bool is_empty[9] = {true,true,true,true,true,true,true,true,true};
@@ -158,7 +158,7 @@ void gui()
     std::string pict1,pict2;
 
     Font font;
-    font.loadFromFile("/Users/kirillgolubev/CLionProjects/pomoika2/Marker Felt.ttf");
+    font.loadFromFile("Marker Felt.ttf");
 
 
     Texture texture0,texture1,texture2,texture3,texture4,texture5,texture6,texture7,texture8;
@@ -336,20 +336,20 @@ void gui()
 
         if (set==1)
         {
-            pict1 = "/Users/kirillgolubev/Hlam/Images/nol.png";
-            pict2 = "/Users/kirillgolubev/Hlam/Images/krest.png";
+            pict1 = "Images/nol.png";
+            pict2 = "Images/krest.png";
         }
 
         else if (set==2)
         {
-            pict1 = "/Users/kirillgolubev/Hlam/Images/m10.jpg";
-            pict2 = "/Users/kirillgolubev/Hlam/Images/r7.jpg";
+            pict1 = "Images/m10.jpg";
+            pict2 = "Images/r7.jpg";
         }
 
         else if (set==3)
         {
-            pict1 = "/Users/kirillgolubev/Hlam/Images/ctree.png";
-            pict2 = "/Users/kirillgolubev/Hlam/Images/deer.png";
+            pict1 = "Images/ctree.png";
+            pict2 = "Images/deer.png";
         }
 
         int area,x,y;

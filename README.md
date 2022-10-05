@@ -44,26 +44,26 @@ The basics of data types are taken as:
 
 ### Start
 
-![](Tic Tac Toe Images/Start.png)
+![](Tic_Tac_Toe_Images/Start.png)
 
 ### Play
 
-![](Tic Tac Toe Images/Play.png)
+![](Tic_Tac_Toe_Images/Play.png)
 
 ### Choose Player
 
-![](Tic Tac Toe Images/Player.png)
+![](Tic_Tac_Toe_Images/Player.png)
 
 ### Choose Type of Board
 
 ### Classic Board
-![](Tic Tac Toe Images/CF.png) 
+![](Tic_Tac_Toe_Images/CF.png) 
 
 ### Christmas Board
-![](Tic Tac Toe Images/CrF.png) 
+![](Tic_Tac_Toe_Images/CrF.png) 
 
 ### Football Board
-![](Tic Tac Toe Images/FF.png) 
+![](Tic_Tac_Toe_Images/FF.png) 
 
 ## Laboratory work 3
 
